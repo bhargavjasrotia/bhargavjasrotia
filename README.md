@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhargavjasrotia
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning pyhton and machine learning
+- 👀 I’m interested in AI/ML, Data Science, Computer Vision
+- 🌱 I’m currently learning pyhton and deep learning
 - 💞️ I’m looking to collaborate on ml and dl projects
 - 📫 How to reach me bhargavjasrotia@hotmail.com
 
